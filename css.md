@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: CSS
 layout: fake_bootstrap
-description: An overview of Bootstrap, how to download and use, basic templates and examples, and more.
-category: Getting Started
+description: Global CSS settings, fundamental HTML elements styled and enhances with extensible classes, and an advances grid system
+category: css
 ---
 ##Getting Started With Bootstrap
 
