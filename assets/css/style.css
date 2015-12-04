@@ -8,3 +8,7 @@
   background-color: LightCyan;
   color: Gray;
 }
+
+.header {
+  float: center;
+}
