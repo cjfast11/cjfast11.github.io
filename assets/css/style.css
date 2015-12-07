@@ -25,3 +25,7 @@
 .title {
   float: center;
 }
+
+.layoutheader {
+  padding-left: 30px;
+}
